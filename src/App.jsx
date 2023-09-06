@@ -7,8 +7,8 @@ function App(){
 
   return(
     <>
-      <Outlet/>
       <Menu/>
+      <Outlet/>
       <Rodape/>
     </>
   )
